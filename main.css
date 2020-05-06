@@ -1,0 +1,240 @@
+.fus{
+    background-color: dodgerblue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    color: white;
+}
+.fus1{
+    text-align: center; 
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.btnn{
+    height: 1.5pc;
+    width: 5pc;
+    font-size: x-small;
+    margin-top: 1pc;
+}
+.tt1{
+    text-align: center;
+}
+.img1{
+    height: 40px;
+    width: 40px;
+    margin: 0px;
+}
+.mrt{
+    float: left;
+    height: 1.75pc;
+    text-align: center;
+    background-color: dodgerblue;
+    margin-left: 8pc;
+    margin-right: 8pc;
+}
+.bl{
+    text-align: center;
+}
+.bl1{
+    color: dodgerblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.bl2{
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.bl3{
+    color: forestgreen;
+}
+.bl4{
+    color: white;
+}
+.p1{
+    text-align: justify;
+    font-size: 17px;
+    color: grey;
+}
+.rhow{
+    margin-top: 80px;
+    background-color: dodgerblue;
+
+}
+table{
+    background-color: dodgerblue;
+    width: auto:
+}
+.number{
+    padding-left: 6pc;
+    color: white;
+    font-size: 25px;
+}
+.number1{
+    padding-left: 6pc;
+    color: white;
+    font-size: 25px;
+}
+.number2{
+    padding-left: 6pc;
+    color: white;
+    font-size: 25px;
+}
+.number3{
+    padding-left: 5pc;
+    color: white;
+    font-size: 25px;
+}
+.bhashr{
+    padding-left: 5pc;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+.bhashr1{
+    padding-left: 4pc;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+.bhashr2{
+    padding-left: 5pc;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+.bhashr3{
+    padding-left: 5pc;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+.log{
+    color: green;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+.toped1 a:hover{
+    color: white;
+}
+.navi1 a:hover{
+    background-color: dodgerblue;
+    border-radius: 25px;
+    color: white ! important;  
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: white;
+  }
+ .boxed2{
+    float: left;
+    text-align: center;
+    margin-top: 2pc;
+    padding: 10px; 
+    border: 10px hidden; 
+    background-color: white;
+    box-shadow: 5px 5px 30px 10px gainsboro;
+ }
+ 
+ .inbox{
+     color: dodgerblue;
+     font-weight: bold;
+}
+.boxed1{
+    float: left;
+    text-align: center;
+   margin-top: 2pc; 
+   border: 10px solid white;
+   background-color: white;
+   box-shadow: 5px 5px 30px 10px gainsboro;
+}
+.mission{
+    font-size: 25px;
+    margin-top: 5pc;
+    padding-right: 9.5pc;
+    color: dodgerblue;
+    font-weight: bold;
+}
+.mission1{
+    font-size: 25px;
+    margin-top: 5pc;
+    color: dodgerblue;
+    font-weight: bold;
+    margin-right: 11pc;
+}
+
+.loged{
+    color: green;
+    padding-left: 9.5pc;
+}
+.hrr1{
+    margin-left: 0pc;
+    width: 3pc;
+    background-color: green;
+    height: 2px;
+}
+.hrr2{
+    margin-left: 55pc;
+    width: 3pc;
+    background-color: green;
+    height: 2px;
+}
+.tog1{
+    float: left;
+    margin-left: 9.5pc;
+    margin-top: 2pc;
+    width: 300px;
+    height: 50px;
+    background-color: whitesmoke;
+}
+.project{
+    font-size: 20px;
+    color: dodgerblue;
+    margin-left: 3pc;
+    margin-top: 2pc;
+    font-weight: bold;
+}
+.mrq{
+    max-width: 17pc;
+    margin-left: 4pc;
+    margin-top: 2pc;
+    max-height: 13pc;
+    min-height: 10pc;
+    min-width: 10pc;
+    margin-right: 6.5pc;
+}    
+.foot{
+    background-color: darkslategrey;
+    margin-top: 10pc;
+}
+.pfoot{
+    color: silver;
+}
+.usl{
+    font-size: 20px;
+    color: white;
+    margin-left: 5pc;
+    font-family: 'Times New Roman', Times, serif;
+}
+.usl1{
+    margin-left: 3.75pc
+}
+.lastest{
+    color: white;
+    background-color: dodgerblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    height: 40px;
+    padding-left: 5pc;    
+}
+.latter{
+    padding-top: 50px;
+    margin: 5pc;
+}
+    
